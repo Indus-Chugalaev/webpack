@@ -1,0 +1,13 @@
+@import "~normalize.css";
+@import "roboto.css";
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-image: url(../img/2.jpg);
+}
+
+.container {
+    color: brown;
+    background-color: chartreuse;
+    font-size: 45px;
+}
